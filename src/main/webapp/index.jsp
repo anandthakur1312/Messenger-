@@ -1,5 +1,6 @@
 <html>
 <body>
+<h1>Click on the links below to open the page</h1>
     <h2>Jersey RESTful Web Application!</h2>
     <p><a href="webapi/myresource">Jersey resource</a>
     <p><a href="webapi/messages">Message Resource</a>
